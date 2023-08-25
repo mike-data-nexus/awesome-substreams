@@ -1,6 +1,7 @@
 ![awesome-substreams](https://user-images.githubusercontent.com/550895/217890452-86ae6388-6570-4393-8d82-cedf5e783e0e.png)
 
 <!-- omit from toc -->
+
 # Awesome Substreams [![awesome-badge](https://awesome.re/badge-flat.svg)](https://awesome.re) [![LICENSE](https://img.shields.io/github/license/pinax-network/awesome-substreams?color=blue)](LICENSE)
 
 Carefully curated list of awesome Substreams resources. **If you find the list helpful, please make sure to ⭐ star it!**
@@ -10,6 +11,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 > Substreams enables developers to write Rust modules, composing data streams alongside the community, and provides extremely high-performance indexing by virtue of parallelization, in a streaming-first fashion.
 
 <!-- omit from toc -->
+
 ## Contents
 
 - [Technology](#technology)
@@ -57,9 +59,8 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 - [Indexing Improvements via Substreams by Sebastian Siemssen](https://www.youtube.com/watch?v=Nn6k7A-TjVE)
 - [Introducing Substreams by Alexandre Bourget](https://www.youtube.com/watch?v=qWxffTKpciU)
 - [Introducing The Graph Substreams for High-Performance Indexing by Alexandre Bourget
-](https://www.youtube.com/watch?v=K-nhC2FCB5k&t=506s)
+  ](https://www.youtube.com/watch?v=K-nhC2FCB5k&t=506s)
 - [Advocating for Firehose and Substreams by Matthew Darwin of Pinax](https://youtu.be/dzCbJ2fpckA)
-
 
 > Substreams Unleashed Demo Series
 
@@ -73,9 +74,11 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 > Twitter accounts related to Substreams technology
 
 ### Protocols
+
 - [The Graph Protocol](https://twitter.com/graphprotocol) - The Graph is a web3 protocol for organizing and accessing blockchain data 🧑‍🚀 Official account of The Graph ecosystem 🌐.
 
 ### Companies
+
 - [StreamingFast](https://twitter.com/streamingfastio) - web3 builders & investors. Building massively scalable architecture for streaming blockchain data.
 - [Pinax](https://twitter.com/PinaxNetwork) - Unleashing the power of blockchain data.
 - [Messari](https://twitter.com/MessariCrypto) - Messari is the leading provider of crypto market intelligence products that help professionals navigate crypto with confidence.
@@ -85,6 +88,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 - [House of Web3](https://twitter.com/thehouseofweb3) - For web3 pioneers and those who contribute knowledge, education, and code to the community at large.
 
 ### Core Contributors
+
 - [Alexandre Bourget](https://twitter.com/bourgetalexndre) - Co-Founder and CTO at **StreamingFast**.
 - [Matthew Darwin](https://twitter.com/matthewdarwin) - Co-Founder and CIO at **Pinax**.
 - [Brandon Ramirez](https://twitter.com/RezBrandon) - Edge & Node CEO.
@@ -93,6 +97,7 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 - [Tegan Kline](https://twitter.com/theklineventure) - Co-Founder **Edge & Node**, Launched **The Graph** | Ex **Barclays** & BAML.
 
 ### Community Advocates
+
 - [GraphAdvocatesDAO](https://twitter.com/GraphAdvocates) - A DAO driving **The Graph** ecosystem growth via community grants & Graph Advocates Program.
 - [GRTiQ](https://twitter.com/grt_iq) - 🎙 Weekly podcast that interviews the people building Web3 & **The Graph**.
 - [Graphtronauts](https://twitter.com/graphtronauts) - #GRT #web3 #GRTFAM #TheGraph Independent Community Group.
@@ -171,6 +176,13 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
   - [Solana SPL Tokens](https://github.com/streamingfast/substreams-playground/tree/master/modules/sol-spl-tokens)
   - [Uniswap](https://github.com/streamingfast/substreams-playground/tree/master/modules/uniswap)
   - [Example substreams consumers (Go, JavaScript, Python, Rust)](https://github.com/streamingfast/substreams-playground/tree/master/consumers)
+- [Stream Powered Subgraphs](https://www.buildersdao.tech)
+  - [WSTETH Substreams](https://github.com/0xPlaygrounds/wsteth-gbd-bounty)
+  - [ERC1155 Substream](https://github.com/MercuricChloride/erc1155-Subgraph)
+  - [ERC-721 Subgraph](https://github.com/MercuricChloride/erc721-subgraph)
+  - [ERC721 SPS](https://github.com/MercuricChloride/erc721-subgraph)
+  - [ERC20 SPS](https://github.com/itsjerryokolo/apecoin_substreams)
+  - [Apecoin Substreams](https://github.com/itsjerryokolo/apecoin_substreams)
 
 ## SDK
 
