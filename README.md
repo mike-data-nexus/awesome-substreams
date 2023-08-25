@@ -179,7 +179,6 @@ Substreams is a powerful blockchain indexing technology, developed for **The Gra
 - [Stream Powered Subgraphs](https://www.buildersdao.tech)
   - [WSTETH Substreams](https://github.com/0xPlaygrounds/wsteth-gbd-bounty)
   - [ERC1155 Substream](https://github.com/MercuricChloride/erc1155-Subgraph)
-  - [ERC-721 Subgraph](https://github.com/MercuricChloride/erc721-subgraph)
   - [ERC721 SPS](https://github.com/MercuricChloride/erc721-subgraph)
   - [ERC20 SPS](https://github.com/itsjerryokolo/apecoin_substreams)
   - [Apecoin Substreams](https://github.com/itsjerryokolo/apecoin_substreams)
